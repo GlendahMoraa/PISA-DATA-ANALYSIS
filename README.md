@@ -85,3 +85,24 @@ In this project, we are going to use Visualization to depict findings that will 
 > Attitude toward school affect student pwerfomance in both genders
 > Parent level of education affect student perfomance
 > Teacher classroom managemnet does not impact student perfomance
+
+### INCLUSIVE
+The repository contains;
+- Explolation template (jupyter notebook)
+- Slide deck template  (jupyter notebook)
+- Explolation template (HTML)
+- Slide deck template  (HTML)
+
+## Setup/Installation Requirements
+1. Text editor- vs-code or any text editor that supports python. If you want to interacy with the notebook offline.
+2. Install Python 3.9.0.
+3. Google colab for the data preparation and analysis online.
+4. Required data sets are in the zipped file.
+5. Download and uzip the zipped folder and exctract the file contents.
+6. Load and preview data sets.
+
+### KNOWN BUGS
+There are no known bugs
+
+## Support and contact details
+In case you run into any issues or have querries ,ideas , or concerns, feel free to make a contribution to the code or contact me on Github GlendahMoraa Copyright (c)2021
